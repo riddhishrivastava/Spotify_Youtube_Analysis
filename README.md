@@ -73,6 +73,7 @@ The analysis is supported by targeted visualizations to interpret key findings:
 
 ## 📁 Repository Structure
 
-* `Spotify_Youtube_analysis.ipynb`: The main Jupyter Notebook containing all the code, analysis steps, and output tables/visualizations.
 * `Spotify Youtube Dataset.csv`: The dataset used for the analysis (required for running the notebook).
+* `Spotify_Youtube_analysis.ipynb`: The main Jupyter Notebook containing all the code, analysis steps, and output tables/visualizations.
+
 
