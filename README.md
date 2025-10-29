@@ -8,6 +8,16 @@ The analysis is conducted using **Python** in a Jupyter Notebook, leveraging dat
 
 ---
 
+## 💾 Data Source and Attribution
+
+The dataset used for this analysis was sourced from **Kaggle**:
+
+* **Dataset Name:** Spotify Youtube Data
+* **Author:** Rohit Grewal
+* **Link:** [https://www.kaggle.com/datasets/rohitgrewal/spotify-youtube-data/data](https://www.kaggle.com/datasets/rohitgrewal/spotify-youtube-data/data)
+
+---
+
 ## 🛠️ Technologies Used
 
 * **Python 3.x**
@@ -65,3 +75,4 @@ The analysis is supported by targeted visualizations to interpret key findings:
 
 * `Spotify_Youtube_analysis.ipynb`: The main Jupyter Notebook containing all the code, analysis steps, and output tables/visualizations.
 * `Spotify Youtube Dataset.csv`: The dataset used for the analysis (required for running the notebook).
+
